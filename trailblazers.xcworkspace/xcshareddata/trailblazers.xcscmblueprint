@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1D0EC8B60624E4BE864E6CC9A20235CCB2817A9D" : 0,
+    "82A97729EC55B5EC9951B8B1634CBA9A8575F264" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7DE299B4-B6CF-4FDD-9581-B5758793E0CB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1D0EC8B60624E4BE864E6CC9A20235CCB2817A9D" : "..\/XcodeProjects\/oyeok_ios",
+    "82A97729EC55B5EC9951B8B1634CBA9A8575F264" : "trailblazers\/citruspay-ios-sdk\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "trailblazers",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trailblazers.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nbourses\/oyeok_ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1D0EC8B60624E4BE864E6CC9A20235CCB2817A9D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/github.com\/citruspay\/citruspay-ios-sdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "82A97729EC55B5EC9951B8B1634CBA9A8575F264"
+    }
+  ]
+}
