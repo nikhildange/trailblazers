@@ -1,0 +1,3 @@
+[submodule "citruspay-ios-sdk"]
+	path = citruspay-ios-sdk
+	url = git://github.com/citruspay/citruspay-ios-sdk.git
